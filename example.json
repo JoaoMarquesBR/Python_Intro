@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Joao",
+        "age": 18,
+        "money": 1400.53
+    },
+    {
+        "id": 2,
+        "name": "Pedroca",
+        "age": 21,
+        "money": 800.4
+    },
+    {
+        "id": 3,
+        "name": "Vini",
+        "age": 25,
+        "money": 2340.43
+    },
+    {
+        "id": 4,
+        "name": "Franco",
+        "age": 15,
+        "money": 1240.43
+    },
+    {
+        "id": 5,
+        "name": "Hype",
+        "age": 23,
+        "money": 5400.43
+    }
+]
